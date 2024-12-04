@@ -59,7 +59,7 @@ public class FrmInventario extends BaseFrame {
 
         tableProductos.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
-
+            //Cambio Ruben
             },
             new String [] {
                 "Nombre", "Precio Unitario", "Cantidad Disponible"
